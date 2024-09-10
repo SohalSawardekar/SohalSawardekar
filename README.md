@@ -26,6 +26,11 @@ Here are some of the projects I’m proud of:
 - [**Hotel Booking App**](https://github.com/SohalSawardekar/Hotel_Booking_App.git): A production-grade app.
 - [**Timepass Project**](https://github.com/SohalSawardekar/sem-3_proj.git): A fun project.
 
+
+![Dancing GIF](https://media.giphy.com/media/26gR1Jx5Bho6pf5gE/giphy.gif)
+
+
+
 ## 📫 Get in Touch
 
 Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/sohal-sawardekar-10a484265). I’m always open to discussing new projects, ideas, or opportunities.
