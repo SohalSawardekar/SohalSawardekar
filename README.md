@@ -27,7 +27,7 @@ Here are some of the projects I’m proud of:
 - [**Timepass Project**](https://github.com/SohalSawardekar/sem-3_proj.git): A fun project.
 
 
-![Dancing GIF](https://media.giphy.com/media/26gR1Jx5Bho6pf5gE/giphy.gif)
+![Img]([https://media.giphy.com/media/26gR1Jx5Bho6pf5gE/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Featsleepcode.in%2F&psig=AOvVaw1n5FgnzGIv_P7hiBOTUxZH&ust=1726079737175000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCODj1KOCuYgDFQAAAAAdAAAAABBg))
 
 
 
