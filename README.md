@@ -43,7 +43,7 @@ Here are some of the projects I’m proud of:
 ## 🎉
 
 <div align="center">
-    ![Image](https://i.pinimg.com/originals/2b/c3/7d/2bc37dee561b2bbf53d9f41dc4f92596.jpg)
+    <img src="https://i.pinimg.com/originals/2b/c3/7d/2bc37dee561b2bbf53d9f41dc4f92596.jpg" />
 </div>
 
 ---
