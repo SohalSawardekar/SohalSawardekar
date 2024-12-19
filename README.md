@@ -10,14 +10,21 @@ Welcome to my GitHub profile! I'm a passionate Software Nerd with a love for wha
 
 ## 🔧 Technologies & Tools
 
-- **Languages**: Dart, JavaScript, Python, JS
-- **Frameworks**: Flutter, React, Next.js
-- **Tools**: Firebase, Git
-- **Databases**: Firestore, MySQL, MongoDB
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=dart,flutter,react,nextjs,html,css,vscode,github,tailwind,git,firebase" />
+    <img src="https://skillicons.dev/icons?i=javascript,python,c,cpp,mongodb,mysql" /><br>
+</div>
 
 ## 📈 GitHub Stats
 
 ![Sohal Sawardekar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SohalSawardekar&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SohalSawardekar&layout=compact&theme=radical)
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=SohalSawardekar&theme=radical)
+
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=SohalSawardekar&theme=radical)
+
 
 ## 🚀 Projects
 
