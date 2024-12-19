@@ -24,9 +24,10 @@ Here, you'll find my projects and contributions in various areas of technology a
 
 ## 📈 GitHub Stats
 
+<div align="center">
 ![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SohalSawardekar&theme=github_dark)  
 ![Top Languages on GitHub](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SohalSawardekar&theme=github_dark)
-
+</div>
 ---
 
 ## 🚀 Projects
