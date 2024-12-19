@@ -2,6 +2,7 @@
 
 Welcome to my GitHub profile! I'm a passionate Software Nerd with a love for whatever is trending 😅. Here, you'll find my projects and contributions in various areas of technology and development.
 
+<br>
 ## 🌟 About Me
 
 - 🔭 I’m currently working on a Hotel Booking App.
@@ -15,26 +16,27 @@ Welcome to my GitHub profile! I'm a passionate Software Nerd with a love for wha
     <img src="https://skillicons.dev/icons?i=javascript,python,c,cpp,mongodb,mysql" /><br>
 </div>
 
+<br>
 ## 📈 GitHub Stats
 ![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SohalSawardekar&theme=github_dark)  
 ![Top Languages on GitHub](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SohalSawardekar&theme=github_dark)
 
+<br>
 <hr>
-
 ## 🚀 Projects
-
 Here are some of the projects I’m proud of:
 
 - [**Hotel Booking App**](https://github.com/SohalSawardekar/Hotel_Booking_App.git): A production-grade app.
 - [**Timepass Project**](https://github.com/SohalSawardekar/sem-3_proj.git): A fun project.
 
 
+<br>
 ## 🎉
 
 ![Image](https://i.pinimg.com/originals/2b/c3/7d/2bc37dee561b2bbf53d9f41dc4f92596.jpg)
 
 
-
+<br>
 ## 📫 Get in Touch
 
 Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/sohal-sawardekar-10a484265). I’m always open to discussing new projects, ideas, or opportunities.
