@@ -18,10 +18,12 @@ Welcome to my GitHub profile! I'm a passionate Software Nerd with a love for wha
 ## 📈 GitHub Stats
 
 ![Sohal Sawardekar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SohalSawardekar&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+
 ![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SohalSawardekar&theme=github_dark)  
+
 ![Top Languages on GitHub](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SohalSawardekar&theme=github_dark)
 
-
+<hr>
 
 ## 🚀 Projects
 
