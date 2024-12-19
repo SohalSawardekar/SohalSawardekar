@@ -15,7 +15,7 @@ Here, you'll find my projects and contributions in various areas of technology a
 
 ## 🔧 Technologies & Tools
 
-<div align="center">
+<div align="center" style="display: flex; flex-direction: column; gap: 20px; justify-content: center;">
     <img src="https://skillicons.dev/icons?i=dart,flutter,react,nextjs,html,css,vscode,github,tailwind,git,firebase" />
     <img src="https://skillicons.dev/icons?i=javascript,python,c,cpp,mongodb,mysql" />
 </div>
