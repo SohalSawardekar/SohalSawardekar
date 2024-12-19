@@ -15,7 +15,7 @@ Here, you'll find my projects and contributions in various areas of technology a
 
 ## 🔧 Technologies & Tools
 
-<div align="center" style="display: flex; flex-direction: column; gap: 20px; justify-content: center;">
+<div align="center" style="display: flex; position: relative; flex-direction: column; gap: 20px; justify-content: center;">
     <img src="https://skillicons.dev/icons?i=dart,flutter,react,nextjs,html,css,vscode,github,tailwind,git,firebase" />
     <img src="https://skillicons.dev/icons?i=javascript,python,c,cpp,mongodb,mysql" />
 </div>
@@ -24,7 +24,7 @@ Here, you'll find my projects and contributions in various areas of technology a
 
 ## 📈 GitHub Stats
 
-<div align="center" style="display: flex; gap: 20px; justify-content: center;">
+<div align="center" style="display: flex; gap: 1 rem; justify-content: center;">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SohalSawardekar&theme=github_dark" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SohalSawardekar&theme=github_dark" />
 </div>
