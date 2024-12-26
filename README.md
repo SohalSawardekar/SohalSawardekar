@@ -31,6 +31,14 @@ Here, you'll find my projects and contributions in various areas of technology a
 
 ---
 
+## My Trophys
+
+<p align="left" style="display: flex; padding: 1rem;"> 
+    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SohalSawardekar" alt="SohalSawardekar" /></a> 
+</p>
+
+---
+
 ## 🚀 Projects
 
 Here are some of the projects I’m proud of:
